@@ -1,0 +1,45 @@
+
+
+-- CARA MENGINSTALL LARAVEL --
+
+HAL YANG HARUS DISIAPKAN :
+1. PHP VERSI TERBARU (MINIMAL VERSI 8.X.XX)
+2. MENGINSTALL COMPOSER VERSI TERBARU (MINIMAL VERSI (2.5.XX)
+3. MENGINSTALL NVM
+
+
+BERIKUT CARA MENGINSTALL LARAVEL :
+1. INSTALL COMPOSER DENGAN KLIK LINK BERIKUT https://getcomposer.org/download/ LALU KLIK LINK Composer-Setup.exe
+2. INSTALL NVM DENGAN KLIK https://github.com/coreybutler/nvm-windows LALU KLIK "latest installer"
+3. JIKA SUDAH KLIK "latest installer", SCROLL KE BAWAH CARI "ASSETS" KEMUDIAN KLIK FILE "nvm-setup.exe" LALU DOWNLOAD
+4. BUKA SHELL XAMPP
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+5. UNTUK MENGECEK VERSI COMPOSER, KETIK "composer -v"
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. SEBELUM MENGINSTALL LARAVEL, BUAT FOLDER BARU TERLEBIH DAHULU UNTUK MENYIMPAN PROJECT LARAVEL YANG AKAN DIBUAT TERSEBUT.
+   SIMPAN FOLDER BARU TERSEBUT DI FOLDER MANA SAJA (SEPERTI DI :C) DENGAN NAMA BEBAS.
+7. KEMUDIAN, BUKA SHELL XAMPP LALU MASUK KE FOLDER BARU TERSEBUT
+8. JIKA SUDAH MASUK KE DALAM FOLDER BARU TERSEBUT, MAKA JALANKAN PERINTAH "composer create-project laravel/laravel NAMA PROJECT" UNTUK MEMBUAT PROJECTNYA
+9. JIKA SUDAH TERINSTALL, MASUK KE DALAM FOLDER PROJECTNYA. CONTOH (cd minimarket)
+10. JIKA SUDAH MASUK KE DALAM FOLDER PROJECT NYA, JALANKAN PERINTAH "php artisan serve"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+11. JIKA INGIN MENGECEK VERSI NVM, JALANKAN PERINTAH "nvm -v" PADA COMMAND PROMPT (CMD) RUN AS ADMINISTRATOR
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. INSTALL NVM KEMBALI PADA CMD RUN AS ADMINISTRATOR DENGAN CARA MENJALANKAN PERINTAH "nvm install latest"
+13. JIKA SUDAH, KETIK "nvm use 20" UNTUK MENGGUNAKAN NVM NYA
+14. KETIK "nvm current" UNTUK MENGETAHUI VERSI NVM BERAPA YANG SEKARANG SEDANG DIPAKAI
+
+
+
+
+
+
+
+
+
+
+
