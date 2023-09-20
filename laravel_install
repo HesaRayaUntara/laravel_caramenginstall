@@ -34,6 +34,15 @@ BERIKUT CARA MENGINSTALL LARAVEL :
 14. KETIK "nvm current" UNTUK MENGETAHUI VERSI NVM BERAPA YANG SEKARANG SEDANG DIPAKAI
 
 
+******************************************************************************************************************************************************************************
+
+-- CARA MENGINSTALL BOOTSTRAP PADA LARAVEL --
+ 
+1. Jalankan perintah "composer require laravel/ui"
+2. Jika sudah berhasil diinstal, maka jalankan perintah "php artisan ui bootstrap"
+3. Setelah itu jalankan perintah "npm install"
+4. Terakhir, jalankan perintah "npm run dev"
+
 
 
 
